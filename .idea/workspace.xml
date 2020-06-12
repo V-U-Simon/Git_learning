@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bda51cb9-c603-4346-a145-10b7619f1a0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Git_learning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dIanDEEHHhYFCVkaijEFohcN6r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bda51cb9-c603-4346-a145-10b7619f1a0d" name="Default Changelist" comment="" />
+      <created>1592115225664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592115225664</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </set>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1843" y="33" width="1071" height="731" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592115260475">
+      <screen x="1440" y="-157" width="1877" height="1057" />
+    </state>
+    <state x="1843" y="33" width="1071" height="731" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.-157.1877.1057/0.23.1440.877@1440.-157.1877.1057" timestamp="1592115260475" />
+    <state x="2012" y="-26" key="CommitChangelistDialog2" timestamp="1592115768834">
+      <screen x="1440" y="-157" width="1877" height="1057" />
+    </state>
+    <state x="2012" y="-26" key="CommitChangelistDialog2/1440.-157.1877.1057/0.23.1440.877@1440.-157.1877.1057" timestamp="1592115768834" />
+    <state x="1887" y="10" key="SettingsEditor" timestamp="1592115306419">
+      <screen x="1440" y="-157" width="1877" height="1057" />
+    </state>
+    <state x="1887" y="10" key="SettingsEditor/1440.-157.1877.1057/0.23.1440.877@1440.-157.1877.1057" timestamp="1592115306419" />
+    <state x="2168" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592115547337">
+      <screen x="1440" y="-157" width="1877" height="1057" />
+    </state>
+    <state x="2168" y="295" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1440.-157.1877.1057/0.23.1440.877@1440.-157.1877.1057" timestamp="1592115547337" />
+  </component>
+</project>
